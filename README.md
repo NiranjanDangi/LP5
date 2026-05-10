@@ -1,3 +1,4 @@
 To run the HPC codes:
-Command 1: g++ -fopenmp bfsdfs.cpp -o bfsdfs  </br>
-Command 2: ./bfsdfs
+</br>
+<b> Command 1: </b> g++ -fopenmp bfsdfs.cpp -o bfsdfs  </br>
+<b> Command 2: </bv> ./bfsdfs
